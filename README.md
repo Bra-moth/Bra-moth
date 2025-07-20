@@ -1,6 +1,6 @@
 # Hi there, I'm Solomon Makuwa 👋
 
-🎓 **BSc (Hons) Computer Science** @ Sol Plaatje University | **Tutor for Intro to Programming & Analysis** | **Peer Mentor (2024)**  
+🎓 **BSc (Hons) Computer Science** @ Sol Plaatje University | **Tutor for Intro to Programming & Analysis, Database Systems, Computational Mathematics** | **Peer Mentor (2024)**  
 📍 Kimberley, South Africa  
 💻 **AI/ML Engineer** | **Software Developer** | **Data Science** | **Mathematical Statistics**  
 
@@ -34,10 +34,11 @@
 - [Data-Science Projects](https://github.com/Bra-moth/DATA-SCIENCE) - Exploratory data analysis & ML models  
 - [Hackathon Submissions](https://github.com/Bra-moth/ISAZI_SUBMISSION) - Competitive coding & problem-solving  
 
-### 🎓 Teaching & Mentorship
+### 🎓 Teaching, Mentorship & Project Experience
 - **Tutor (2025) for Introduction to Programming & Analysis** (Python/Java)  
 - **Peer Mentor (2024)** - Guiding CS students in academic & career growth  
-- **Strong foundation in Mathematical Statistics** - Applied in ML model optimization  
+- **Strong foundation in Mathematical Statistics** - Applied in ML model optimization
+- **Presented and the Deep Learning Indabax2025** - Project on UAV Path Planning 
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/solomon-makuwa-952165178)
