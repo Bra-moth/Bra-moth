@@ -35,7 +35,10 @@
 - [Hackathon Submissions](https://github.com/Bra-moth/ISAZI_SUBMISSION) - Competitive coding & problem-solving  
 
 ### 🎓 Teaching, Mentorship & Project Experience
-- **Tutor (2025) for Introduction to Programming & Analysis** (Python/Java)  
+- **Tutor (2025) for {
+  Introduction to Computattional Mathematics (MatLab)
+  Database Systems / Information Systems 3 (SQL)
+   Introduction to Programming & Analysis** (Python/C++)  
 - **Peer Mentor (2024)** - Guiding CS students in academic & career growth  
 - **Strong foundation in Mathematical Statistics** - Applied in ML model optimization
 - **Presented and the Deep Learning Indabax2025** - Project on UAV Path Planning 
